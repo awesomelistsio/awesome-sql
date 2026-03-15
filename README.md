@@ -20,6 +20,7 @@
 - [SQL Linters & Formatters](#sql-linters--formatters)
 - [Learning Resources](#learning-resources)
 - [Related Awesome Lists](#related-awesome-lists)
+- [querybear.com](https://querybear.com) – Ask your data anything – with persistent memory, schema learning, and more.
 
 ## Databases
 
