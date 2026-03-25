@@ -54,6 +54,7 @@
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) – Open-source cross-platform SQL editor.
 - [DataGrip](https://www.jetbrains.com/datagrip/) – JetBrains SQL IDE.
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) – SQLite visual interface.
+- [Yaw](https://yaw.sh) – Cross-platform terminal with built-in clients for PostgreSQL, MySQL, SQL Server, MongoDB, and Redis.
 
 ## CLI Tools
 
