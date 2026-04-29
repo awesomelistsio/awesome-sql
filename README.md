@@ -50,6 +50,7 @@
 ## GUI Clients
 
 - [DBeaver](https://github.com/dbeaver/dbeaver) – Universal database tool supporting all major SQL systems.
+- [DBConvert Streams](https://streams.dbconvert.com/data-explorer) – Database IDE for SQL exploration, migration, and CDC replication.
 - [TablePlus](https://tableplus.com/) – Fast, modern database GUI (commercial).
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) – Open-source cross-platform SQL editor.
 - [DataGrip](https://www.jetbrains.com/datagrip/) – JetBrains SQL IDE.
