@@ -54,6 +54,7 @@
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) – Open-source cross-platform SQL editor.
 - [DataGrip](https://www.jetbrains.com/datagrip/) – JetBrains SQL IDE.
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) – SQLite visual interface.
+- [TableAi](https://tableai.org/) – LLM-first SQL database client for Mac.
 
 ## CLI Tools
 
