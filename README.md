@@ -63,7 +63,7 @@
 - [LiteCLI](https://github.com/dbcli/litecli) – Enhanced SQLite CLI.
 - [pgcli](https://github.com/dbcli/pgcli) – Autocompletion and syntax highlighting for PostgreSQL.
 - [mycli](https://github.com/dbcli/mycli) – MySQL client with autocomplete.
-- [OneQuery](https://github.com/wordbricks/onequery) – Self-hosted data access gateway for databases, analytics tools, and APIs, with centralized credentials, read-only query validation, query limits, and audit logs.
+- [OneQuery](https://github.com/wordbricks/onequery) – Self-hosted gateway for safe, auditable agent queries across approved data sources.
 
 ## Extensions
 
