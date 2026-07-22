@@ -129,6 +129,7 @@
 - [W3Schools SQL](https://www.w3schools.com/sql/) – Intro to SQL.
 - [LeetCode Database Problems](https://leetcode.com/problemset/database/) – SQL problem-solving practice.
 - [SQL Style Guide](https://www.sqlstyle.guide/) – Best practices and conventions.
+- [QueryCase](https://querycase.com) - Browser-based SQL learning game with detective-themed cases covering SELECT through window functions.
 
 ## Related Awesome Lists
 
